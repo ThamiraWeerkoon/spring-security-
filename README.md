@@ -1,2 +1,6 @@
-# spring-security-AOuth2-JWT
-this repository contain security project with AOuth2+ JWT +SPRING Security
+**# Spring security with OAuth2 and JWT**
+
+In this repo contain 
+-simple spring secururity
+-OAuth2 autontication
+-Authontication with JWt token
