@@ -21,8 +21,6 @@ public interface UserProjections {
 
 		String getUserName();
 
-		Boolean getActivated();
-
 		String getEmail();
 
 	}
